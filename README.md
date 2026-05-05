@@ -1,3 +1,3 @@
 # Ejemplo de uso de GIT
 
-este repo es para mostrar el uso de git
+Este repo es para mostrar el uso de git
