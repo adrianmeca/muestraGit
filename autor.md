@@ -1,2 +1,2 @@
-# Autor: 
+# Autor 
 ##Adrián Meca
