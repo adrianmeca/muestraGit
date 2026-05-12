@@ -1,3 +1,3 @@
-# Ejemplo de uso de GIT
+# Ejemplo de uso de GIT para la clase de Java de UTN FRRo 2026
 
-Este repo es para mostrar el uso de git
+Este repositorio es para mostrar el uso de git
