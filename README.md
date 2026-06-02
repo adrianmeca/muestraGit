@@ -3,7 +3,4 @@
 Este repositorio es para mostrar el uso de git
 
 ## Topics of this classes
-1. create github account
-2. crear repo
-3. hacer cambios add, commit & push
-4. branch
+[topic list](./docs/docs.md#topic)
