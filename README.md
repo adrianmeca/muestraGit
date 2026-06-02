@@ -3,6 +3,4 @@
 Este repositorio es para mostrar el uso de git
 
 ## Topics
-1. crear repo
-2. hacer cambios add, commit & push
-3. branch
+[topic list](./docs/docs.md#topic)
